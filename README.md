@@ -10,14 +10,15 @@ Controls:
 
   You control the player using the AWDS keys.
   You look around using the mouse.
-  You fire holding down the mouse button.
+  You fire, holding down the mouse button.
 
 Game mechanics:
 
-  Basic movement controls for the palyer.
-  Player loses health when they are hit by a zombie. (There is a 2 sec damage cooldown, which also pauses the zombie movement)
-  If player loses 3 hearts the game is over.
+  The basic movement controls for the player.
+  The player loses health when they are hit by a zombie. (There is a 2-second damage cooldown, which also pauses the zombie movement).
+  If a player loses three hearts, the game is over.
+  If the player walks into one side of the map, he will pop out on the opposite end.
   Zombies follow the player in a direct path.
-  Zomies die if they are hit by a bullet.
-  Zombie spawnrate is increased every 30 seconds.
+  Zombies die if they are hit by a bullet.
+  The zombie spawn rate is increased every 30 seconds.
   Zombie head tracks how many Zombies have been killed.
