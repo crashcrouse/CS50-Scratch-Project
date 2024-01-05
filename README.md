@@ -1,18 +1,18 @@
 # CS50-Scratch-Project
 Mini Game Made in Scratch.
 
-# Goal of the game:
+# Goal of the game: #
 
   - Hit Play.
-  - Survive as long as possible.
+  - Survive as long as possible. 
 
-# Controls:
+# Controls: #
 
   - You control the player using the AWDS keys.
   - You look around using the mouse.
   - You fire, holding down the mouse button.
 
-# Game mechanics:
+# Game mechanics: #
 
   - The basic movement controls for the player.
   - The player loses health when they are hit by a zombie. (There is a 2-second damage cooldown, which also pauses the zombie movement).
